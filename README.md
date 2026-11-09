@@ -10,11 +10,11 @@ Accounting graduate (BSc, 2:1) and **MSc Business Analytics** graduate from **Wa
 
 | Project | What it covers | Tools | Type |
 |---|---|---|---|
-| [Financial Market Volatility Forecasting](https://github.com/princessseske/garch-volatility-forecasting) | GARCH and GJR-GARCH models on 10 years of S&P 500 and Tesla prices, linked to options-income ETF yields via Black-Scholes | Python, arch, statsmodels | Individual |
-| [Credit Risk Analytics and Predictive Modelling](https://github.com/princessseske/credit-risk-analytics-lendingclub) | Loan approval policy A/B test, borrower segmentation and neural-network default prediction on ~50,000 LendingClub loans | R, Python, PyTorch | Team |
-| [Relational Database Design](https://github.com/princessseske/ms-food-relational-database) | 3NF SQLite database for a food retailer's cold chain, with SQL answering seven waste, stockout and supplier questions | SQL, SQLite | Team |
-| [Generator Rental Revenue Management](https://github.com/princessseske/generator-fleet-revenue-optimization) | Linear programming model allocating a rental fleet across four rental durations to maximise revenue | Python, Pyomo | Team |
-| [Universal Plus Banking Prediction](https://github.com/princessseske/credit-propensity-prediction-crispdm) | CRISP-DM model predicting which of ~100,000 bank customers will apply for business credit | Python, scikit-learn | Team |
+| [Financial Market Volatility Forecasting](https://github.com/princess-maikyau/garch-volatility-forecasting) | GARCH and GJR-GARCH models on 10 years of S&P 500 and Tesla prices, linked to options-income ETF yields via Black-Scholes | Python, arch, statsmodels | Individual |
+| [Credit Risk Analytics and Predictive Modelling](https://github.com/princess-maikyau/credit-risk-analytics-lendingclub) | Loan approval policy A/B test, borrower segmentation and neural-network default prediction on ~50,000 LendingClub loans | R, Python, PyTorch | Team |
+| [Relational Database Design](https://github.com/princess-maikyau/ms-food-relational-database) | 3NF SQLite database for a food retailer's cold chain, with SQL answering seven waste, stockout and supplier questions | SQL, SQLite | Team |
+| [Generator Rental Revenue Management](https://github.com/princess-maikyau/generator-fleet-revenue-optimization) | Linear programming model allocating a rental fleet across four rental durations to maximise revenue | Python, Pyomo | Team |
+| [Universal Plus Banking Prediction](https://github.com/princess-maikyau/credit-propensity-prediction-crispdm) | CRISP-DM model predicting which of ~100,000 bank customers will apply for business credit | Python, scikit-learn | Team |
 
 *Team projects were completed as group coursework on the MSc; full credit goes to my teammates.*
 
